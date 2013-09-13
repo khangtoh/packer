@@ -1,3 +1,4 @@
+// DIGITAL OCEAN HTTP REST API
 // All of the methods used to communicate with the digital_ocean API
 // are here. Their API is on a path to V2, so just plain JSON is used
 // in place of a proper client library for now.
